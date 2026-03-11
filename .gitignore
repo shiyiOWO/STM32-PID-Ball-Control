@@ -1,0 +1,10 @@
+# Keil MDK 编译垃圾和配置文件屏蔽
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.map
+*.scvd
+JLinkSettings.ini
+*.bak
+*.dep
